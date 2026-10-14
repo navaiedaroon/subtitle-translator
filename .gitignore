@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Chrome profile (private + large)
+chrome-profile/
+
+# Subtitle files (your personal data)
+sub_en/*
+!sub_en/.gitkeep
+sub_fa/*
+!sub_fa/.gitkeep
+
+# Screenshots
+*.png
+error_*.png
+
+# Logs & temp
+*.log
+*.tmp
+*.crdownload
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
